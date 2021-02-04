@@ -1,0 +1,14 @@
+Only specific URLs are part of scope.
+This usually includes staging/dev/testing of single URLs like: app.singhkranjan.tech
+    Recon Steps:
+                -- Directory Enumeration
+                -- Technology Fingerprinting
+                -- Port Scanning
+                -- Parameter Fuzzing
+                -- Wayback History
+                -- Known Vulnerability
+                -- Hardcoded information in Javascript
+                -- Domain specific Github & Google Dorking
+                -- Broken Link Hijacking
+                -- Data Breach Analysis
+                -- Misconfigured Server / WAF / Storage
