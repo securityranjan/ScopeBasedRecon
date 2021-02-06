@@ -1,0 +1,23 @@
+Mainly this king of scope there is wild card scope which include all the subdomains are in part of this Scope
+
+Recon-MediumScope
+      Subdomain Enumeration
+      Subdomain Takeover
+      Probing & Technology Fingerprinting
+      Port Scanning 
+      Known vulnerability
+      Template Based Scan(Nuclei / Jeales)
+      Misconfigured any assets including cloud storage
+      Broken Link Hijacking
+      Directory Enumeration
+      Hardcoded Information in Javascript
+      Github Reconnaissance 
+      Google Dorking
+      Data Break Analysis
+      Parameter Fuzzing
+      Internet Search Engine Discovery (Shodan, Censys, Spyse etc.)
+      IP Range Enumaration
+      Wayback History
+      Potential Pattern Extraction with GF and automating for XSS, CSRF/SSRF etc.
+      Heartbleed Scanning
+      
