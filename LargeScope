@@ -1,0 +1,25 @@
+In this kind of scope we consider everything related to that organisation in that scope which include:
+    Any subdomain
+    Child Domain
+    Any Assets own by that organisation
+    
+Recon consist of":
+              Subsidary & Acquisition Enumeration
+              Reverse Lookup
+              ASN & IP Space Enumeration
+              Subdomain Enumeration
+              Subdomain Takeover
+              Probing & Technology Fingerprinting
+              Port Scanning
+              Known vulnerability
+              Template Base Scanning
+              Misconfigured Cloud / Assets
+              Broken Link Hijacking
+              Directory Enumeration
+              Hardcoded Information in JavaScript
+              Github Recon & Google Dorking
+              Data breach Analysis
+              Parameter Fuzzing
+              Search Engine Discovery (Shodan, Censys etc.)
+              HeartBleed Scanning
+              
